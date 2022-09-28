@@ -8,4 +8,8 @@ npm install --save-dev eslint@^8.0.1 eslint-plugin-promise@^6.0.0 eslint-plugin-
 npm i -D husky
 
 npm i -D lint-staged
+
+npm i -D jest @types/jest ts-jest
+
+jest --init
 ```
